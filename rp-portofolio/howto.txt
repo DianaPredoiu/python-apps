@@ -1,0 +1,7 @@
+1. activate the virtual env
+windows command: venv\Scripts\activate.bat
+
+2. apply changes made to the files
+python manage.py migrate
+
+3. python manage.py runserver
